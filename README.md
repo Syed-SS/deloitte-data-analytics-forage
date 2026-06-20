@@ -1,10 +1,10 @@
-# Deloitte Data Analytics Job Simulation (Forage)
+# Deloitte Australia Data Analytics Job Simulation (Forage)
 
 ## Overview
 
-This repository contains my work completed during the Deloitte Australia Data Analytics Virtual Experience Program on Forage.
+This repository contains my work completed during the Deloitte Australia Data Analytics Job Simulation hosted on Forage.
 
-The simulation involved analyzing business datasets, creating visualizations, and generating insights to support business decision-making.
+The project focused on analyzing business datasets, creating data visualizations, and generating actionable insights to support business decision-making. The simulation included telemetry data analysis and workforce equality analysis using industry-standard analytical tools.
 
 ---
 
@@ -12,21 +12,21 @@ The simulation involved analyzing business datasets, creating visualizations, an
 
 ### Objective
 
-Analyze Daikibo's telemetry dataset and identify operational downtime patterns.
+Analyze Daikibo's telemetry dataset and create visual dashboards to identify operational trends and business insights.
 
 ### Work Completed
 
-* Explored telemetry data
-* Calculated downtime metrics
-* Identified factories with the highest downtime
-* Compared downtime across device types
-* Created an interactive Tableau dashboard
+* Explored and analyzed telemetry data
+* Created interactive visualizations
+* Identified key business trends and patterns
+* Developed dashboards for decision-making support
+* Presented findings through data storytelling
 
-### Dashboard Insights
+### Files Included
 
-* Down Time Per Factory
-* Down Time Per Device Type
-* Interactive filtering and analysis
+* Daikibo Telemetry Dataset
+* Dashboard Visualizations
+* Tableau Analysis Outputs
 
 ---
 
@@ -34,24 +34,31 @@ Analyze Daikibo's telemetry dataset and identify operational downtime patterns.
 
 ### Objective
 
-Investigate workforce equality data and identify potential trends.
+Investigate workforce equality data and support business decision-making through analytical insights.
 
 ### Work Completed
 
-* Analyzed equality dataset
-* Examined workforce-related metrics
-* Generated insights for business stakeholders
-* Supported data-driven decision making
+* Analyzed workforce equality dataset
+* Examined diversity and equality metrics
+* Generated analytical findings
+* Prepared supporting reports and outputs
+
+### Files Included
+
+* Equality Dataset
+* Analysis Outputs
+* Supporting Documentation
 
 ---
 
-## Tools Used
+## Tools & Technologies
 
 * Tableau
 * Microsoft Excel
 * Data Analysis
 * Data Visualization
 * Business Intelligence
+* Dashboard Development
 
 ---
 
@@ -60,9 +67,11 @@ Investigate workforce equality data and identify potential trends.
 * Data Cleaning
 * Exploratory Data Analysis
 * Dashboard Development
-* Business Analytics
 * Data Visualization
+* Business Analytics
+* Problem Solving
 * Insight Generation
+* Data Storytelling
 
 ---
 
@@ -71,36 +80,55 @@ Investigate workforce equality data and identify potential trends.
 ```text
 deloitte-data-analytics-forage/
 │
-├── task1-telemetry-analysis/
-├── task2-equality-analysis/
 ├── screenshots/
-├── Task 2 Guide.pdf
-├── Task 5 Equality Table.xlsx
-├── output.pdf
+│   ├── task1.png
+│   ├── task2-companies-revenue.png
+│   ├── task2-customers-revenue.png
+│   ├── task2-revenue-quantity.png
+│   └── final-revenue.png
+│
+├── task1-telemetry-analysis/
+│   ├── daikibo-telemetry-data.json.zip
+│   └── dashboard.png
+│
+├── task2-equality-analysis/
+│   ├── Task 2 Guide.pdf
+│   ├── Task 5 Equality Table.xlsx
+│   ├── output.pdf
+│   └── output.pptx
+│
 └── README.md
 ```
 
 ---
 
-## Key Learnings
+## Key Outcomes
 
-* Analyzed real-world business datasets
-* Created visual dashboards for decision-making
-* Interpreted operational and workforce data
-* Communicated insights effectively
+* Performed real-world business data analysis.
+* Created dashboards and visual reports.
+* Generated data-driven insights for decision-making.
+* Applied analytical thinking to solve business problems.
+* Strengthened business intelligence and visualization skills.
 
 ---
 
-## Program
+## Program Details
 
-Deloitte Australia Data Analytics Virtual Experience Program
+**Program:** Deloitte Australia Data Analytics Job Simulation
 
-Platform: Forage
+**Platform:** Forage
+
+**Organization:** Deloitte Australia
 
 ---
 
 ## Author
 
-Syed Shahed
+**Syed Shahed**
 
 AI Engineer | Data Analyst | Machine Learning Engineer
+
+LinkedIn: https://linkedin.com/in/syedshahed-ai
+
+GitHub: https://github.com/Syed-SS
+
