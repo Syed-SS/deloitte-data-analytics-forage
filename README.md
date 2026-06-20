@@ -2,92 +2,105 @@
 
 ## Overview
 
-This repository contains my work completed as part of the Deloitte Australia Data Analytics Virtual Experience Program on Forage.
+This repository contains my work completed during the Deloitte Australia Data Analytics Virtual Experience Program on Forage.
 
-The simulation focused on analyzing business datasets, creating interactive dashboards, and generating actionable insights to support business decision-making.
+The simulation involved analyzing business datasets, creating visualizations, and generating insights to support business decision-making.
 
-## Tasks Completed
+---
 
-### Task 1: Telemetry Data Analysis
+## Task 1: Telemetry Data Analysis
 
-Analyzed Daikibo's telemetry dataset using Tableau to identify operational issues and downtime patterns.
+### Objective
 
-#### Objectives
+Analyze Daikibo's telemetry dataset and identify operational downtime patterns.
 
-* Analyze machine telemetry data
-* Calculate downtime metrics
-* Identify factories with the highest downtime
-* Compare downtime across device types
-* Build an interactive Tableau dashboard
+### Work Completed
 
-#### Dashboard Components
+* Explored telemetry data
+* Calculated downtime metrics
+* Identified factories with the highest downtime
+* Compared downtime across device types
+* Created an interactive Tableau dashboard
+
+### Dashboard Insights
 
 * Down Time Per Factory
 * Down Time Per Device Type
-* Interactive filtering between visualizations
+* Interactive filtering and analysis
 
-### Task 2: Equality Analysis
+---
 
-Analyzed workforce equality data to investigate potential pay and diversity-related patterns.
+## Task 2: Equality Analysis
 
-#### Objectives
+### Objective
 
-* Review equality dataset
-* Identify workforce trends
-* Support evidence-based decision making
-* Present analytical findings
+Investigate workforce equality data and identify potential trends.
 
-## Tools & Technologies
+### Work Completed
+
+* Analyzed equality dataset
+* Examined workforce-related metrics
+* Generated insights for business stakeholders
+* Supported data-driven decision making
+
+---
+
+## Tools Used
 
 * Tableau
 * Microsoft Excel
 * Data Analysis
-* Business Intelligence
 * Data Visualization
+* Business Intelligence
+
+---
 
 ## Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis
 * Dashboard Development
-* Business Insight Generation
+* Business Analytics
 * Data Visualization
-* Problem Solving
+* Insight Generation
+
+---
 
 ## Repository Structure
 
-```
+```text
 deloitte-data-analytics-forage/
 │
 ├── task1-telemetry-analysis/
-│   ├── dashboard-screenshot.png
-│   └── task-description.pdf
-│
 ├── task2-equality-analysis/
-│   ├── equality-table.xlsx
-│   └── analysis-files/
-│
 ├── screenshots/
-│   ├── task1-dashboard.png
-│   ├── task1-completion.png
-│   └── task2-completion.png
-│
+├── Task 2 Guide.pdf
+├── Task 5 Equality Table.xlsx
+├── output.pdf
 └── README.md
 ```
 
-## Key Outcomes
+---
 
-* Built an interactive Tableau dashboard for telemetry data analysis.
-* Identified downtime trends across factories and device categories.
-* Performed equality-related workforce analysis.
-* Developed data-driven recommendations for business stakeholders.
+## Key Learnings
 
-## Certificate
+* Analyzed real-world business datasets
+* Created visual dashboards for decision-making
+* Interpreted operational and workforce data
+* Communicated insights effectively
 
-Deloitte Australia Data Analytics Job Simulation – Forage
+---
+
+## Program
+
+Deloitte Australia Data Analytics Virtual Experience Program
+
+Platform: Forage
+
+---
 
 ## Author
 
 Syed Shahed
-AI Engineer | Data Analyst | Machine Learning Engineer
 
+AI Engineer | Data Analyst | Machine Learning Engineer
